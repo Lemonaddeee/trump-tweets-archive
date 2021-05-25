@@ -1,5 +1,4 @@
 # Trump-Tweets-Archive
-# Trump-Social-Network
 
 This archive contains data that describes Trump's social network which is crawled from Trump's follow list.
 The direct follower data is contained in '1.json'
