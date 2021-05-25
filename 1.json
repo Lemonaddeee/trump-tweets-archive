@@ -1,0 +1,568 @@
+[{
+    "data": [
+        {
+            "id": "26487169",
+            "name": "Lou Dobbs",
+            "public_metrics": {
+                "followers_count": 2327650,
+                "following_count": 2103,
+                "listed_count": 5985,
+                "tweet_count": 36485
+            },
+            "username": "LouDobbs"
+        },
+        {
+            "id": "19739126",
+            "name": "Kevin McCarthy",
+            "public_metrics": {
+                "followers_count": 1224268,
+                "following_count": 1392,
+                "listed_count": 6188,
+                "tweet_count": 15071
+            },
+            "username": "GOPLeader"
+        },
+        {
+            "id": "1249982359",
+            "name": "Leader McConnell",
+            "public_metrics": {
+                "followers_count": 2132592,
+                "following_count": 106,
+                "listed_count": 7426,
+                "tweet_count": 4439
+            },
+            "username": "senatemajldr"
+        },
+        {
+            "id": "963480595",
+            "name": "Mark Meadows",
+            "public_metrics": {
+                "followers_count": 927077,
+                "following_count": 1034,
+                "listed_count": 3731,
+                "tweet_count": 4305
+            },
+            "username": "MarkMeadows"
+        },
+        {
+            "id": "25101996",
+            "name": "Kimberly Guilfoyle",
+            "public_metrics": {
+                "followers_count": 1927367,
+                "following_count": 3012,
+                "listed_count": 5312,
+                "tweet_count": 9717
+            },
+            "username": "kimguilfoyle"
+        },
+        {
+            "id": "29458079",
+            "name": "Jeanine Pirro",
+            "public_metrics": {
+                "followers_count": 2552525,
+                "following_count": 488,
+                "listed_count": 6278,
+                "tweet_count": 17904
+            },
+            "username": "JudgeJeanine"
+        },
+        {
+            "id": "18166778",
+            "name": "Rep. Jim Jordan",
+            "public_metrics": {
+                "followers_count": 1985679,
+                "following_count": 3994,
+                "listed_count": 6752,
+                "tweet_count": 4713
+            },
+            "username": "Jim_Jordan"
+        },
+        {
+            "id": "208155240",
+            "name": "Maria Bartiromo",
+            "public_metrics": {
+                "followers_count": 985495,
+                "following_count": 1464,
+                "listed_count": 5510,
+                "tweet_count": 33246
+            },
+            "username": "MariaBartiromo"
+        },
+        {
+            "id": "818910970567344128",
+            "name": "Vice President Mike Pence",
+            "public_metrics": {
+                "followers_count": 10322053,
+                "following_count": 15,
+                "listed_count": 13415,
+                "tweet_count": 9351
+            },
+            "username": "VP"
+        },
+        {
+            "id": "2353605901",
+            "name": "Ronna McDaniel",
+            "public_metrics": {
+                "followers_count": 1049772,
+                "following_count": 2579,
+                "listed_count": 3702,
+                "tweet_count": 17051
+            },
+            "username": "GOPChairwoman"
+        },
+        {
+            "id": "17685258",
+            "name": "Brad Parscale",
+            "public_metrics": {
+                "followers_count": 862644,
+                "following_count": 477,
+                "listed_count": 3510,
+                "tweet_count": 5589
+            },
+            "username": "parscale"
+        },
+        {
+            "id": "818927131883356161",
+            "name": "Kayleigh McEnany",
+            "public_metrics": {
+                "followers_count": 6308984,
+                "following_count": 330,
+                "listed_count": 13224,
+                "tweet_count": 4303
+            },
+            "username": "PressSec"
+        },
+        {
+            "id": "22703645",
+            "name": "Tucker Carlson",
+            "public_metrics": {
+                "followers_count": 4614818,
+                "following_count": 97,
+                "listed_count": 13495,
+                "tweet_count": 4044
+            },
+            "username": "TuckerCarlson"
+        },
+        {
+            "id": "56561449",
+            "name": "Jesse Watters",
+            "public_metrics": {
+                "followers_count": 1580029,
+                "following_count": 1160,
+                "listed_count": 3744,
+                "tweet_count": 11856
+            },
+            "username": "JesseBWatters"
+        },
+        {
+            "id": "822215673812119553",
+            "name": "The White House",
+            "public_metrics": {
+                "followers_count": 26007520,
+                "following_count": 14,
+                "listed_count": 18455,
+                "tweet_count": 23979
+            },
+            "username": "WhiteHouse"
+        },
+        {
+            "id": "823367015830323201",
+            "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 842405,
+                "following_count": 989,
+                "listed_count": 3037,
+                "tweet_count": 6704
+            },
+            "username": "Scavino45"
+        },
+        {
+            "id": "471672239",
+            "name": "Kellyanne Conway",
+            "public_metrics": {
+                "followers_count": 3622767,
+                "following_count": 854,
+                "listed_count": 10017,
+                "tweet_count": 9098
+            },
+            "username": "KellyannePolls"
+        },
+        {
+            "id": "20733972",
+            "name": "Reince Priebus",
+            "public_metrics": {
+                "followers_count": 954632,
+                "following_count": 271,
+                "listed_count": 5692,
+                "tweet_count": 10957
+            },
+            "username": "Reince"
+        },
+        {
+            "id": "322293052",
+            "name": "Roma Downey",
+            "public_metrics": {
+                "followers_count": 288009,
+                "following_count": 2710,
+                "listed_count": 1325,
+                "tweet_count": 29218
+            },
+            "username": "RealRomaDowney"
+        },
+        {
+            "id": "720293443260456960",
+            "name": "The Trump Organization",
+            "public_metrics": {
+                "followers_count": 550135,
+                "following_count": 50,
+                "listed_count": 1612,
+                "tweet_count": 914
+            },
+            "username": "Trump"
+        },
+        {
+            "id": "2325495378",
+            "name": "Trump Golf",
+            "public_metrics": {
+                "followers_count": 174426,
+                "following_count": 112,
+                "listed_count": 440,
+                "tweet_count": 1577
+            },
+            "username": "TrumpGolf"
+        },
+        {
+            "id": "245963716",
+            "name": "Tiffany Ariana Trump",
+            "public_metrics": {
+                "followers_count": 904708,
+                "following_count": 195,
+                "listed_count": 1836,
+                "tweet_count": 903
+            },
+            "username": "TiffanyATrump"
+        },
+        {
+            "id": "50769180",
+            "name": "Laura Ingraham",
+            "public_metrics": {
+                "followers_count": 3974313,
+                "following_count": 360,
+                "listed_count": 14269,
+                "tweet_count": 46270
+            },
+            "username": "IngrahamAngle"
+        },
+        {
+            "id": "22203756",
+            "name": "Mike Pence",
+            "public_metrics": {
+                "followers_count": 6008993,
+                "following_count": 46,
+                "listed_count": 11991,
+                "tweet_count": 13106
+            },
+            "username": "Mike_Pence"
+        },
+        {
+            "id": "729676086632656900",
+            "name": "Team Trump (Text TRUMP to 88022)",
+            "public_metrics": {
+                "followers_count": 2437591,
+                "following_count": 132,
+                "listed_count": 5130,
+                "tweet_count": 30607
+            },
+            "username": "TeamTrump"
+        },
+        {
+            "id": "475802156",
+            "name": "Vanessa Trump",
+            "public_metrics": {
+                "followers_count": 419035,
+                "following_count": 162,
+                "listed_count": 919,
+                "tweet_count": 2298
+            },
+            "username": "MrsVanessaTrump"
+        },
+        {
+            "id": "75541946",
+            "name": "Lara Trump",
+            "public_metrics": {
+                "followers_count": 1253185,
+                "following_count": 512,
+                "listed_count": 3035,
+                "tweet_count": 3732
+            },
+            "username": "LaraLeaTrump"
+        },
+        {
+            "id": "41634520",
+            "name": "Sean Hannity",
+            "public_metrics": {
+                "followers_count": 5612307,
+                "following_count": 6,
+                "listed_count": 20985,
+                "tweet_count": 9557
+            },
+            "username": "seanhannity"
+        },
+        {
+            "id": "4121225056",
+            "name": "Corey R. Lewandowski",
+            "public_metrics": {
+                "followers_count": 623276,
+                "following_count": 49,
+                "listed_count": 2558,
+                "tweet_count": 3259
+            },
+            "username": "CLewandowski_"
+        },
+        {
+            "id": "2908170952",
+            "name": "Diamond and Silk\u00ae",
+            "public_metrics": {
+                "followers_count": 1455366,
+                "following_count": 49,
+                "listed_count": 3215,
+                "tweet_count": 19277
+            },
+            "username": "DiamondandSilk"
+        },
+        {
+            "id": "34852681",
+            "name": "KATRINA CAMPINS",
+            "public_metrics": {
+                "followers_count": 239127,
+                "following_count": 1975,
+                "listed_count": 931,
+                "tweet_count": 13649
+            },
+            "username": "KatrinaCampins"
+        },
+        {
+            "id": "25429371",
+            "name": "Katrina Pierson",
+            "public_metrics": {
+                "followers_count": 744674,
+                "following_count": 833,
+                "listed_count": 3200,
+                "tweet_count": 56271
+            },
+            "username": "KatrinaPierson"
+        },
+        {
+            "id": "15513604",
+            "name": "FOX & friends",
+            "public_metrics": {
+                "followers_count": 1341959,
+                "following_count": 1064,
+                "listed_count": 8002,
+                "tweet_count": 93434
+            },
+            "username": "foxandfriends"
+        },
+        {
+            "id": "108471631",
+            "name": "MELANIA TRUMP",
+            "public_metrics": {
+                "followers_count": 1366343,
+                "following_count": 54,
+                "listed_count": 4121,
+                "tweet_count": 1937
+            },
+            "username": "MELANIATRUMP"
+        },
+        {
+            "id": "246500501",
+            "name": "Geraldo Rivera",
+            "public_metrics": {
+                "followers_count": 381206,
+                "following_count": 938,
+                "listed_count": 2238,
+                "tweet_count": 13311
+            },
+            "username": "GeraldoRivera"
+        },
+        {
+            "id": "14839147",
+            "name": "\ud83c\uddfa\ud83c\uddf8ERIC BOLLING\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 1208723,
+                "following_count": 977,
+                "listed_count": 4525,
+                "tweet_count": 35009
+            },
+            "username": "ericbolling"
+        },
+        {
+            "id": "316865635",
+            "name": "Mark Burnett",
+            "public_metrics": {
+                "followers_count": 239956,
+                "following_count": 488,
+                "listed_count": 1333,
+                "tweet_count": 2723
+            },
+            "username": "MarkBurnettTV"
+        },
+        {
+            "id": "26829777",
+            "name": "GARY PLAYER",
+            "public_metrics": {
+                "followers_count": 428715,
+                "following_count": 1758,
+                "listed_count": 1944,
+                "tweet_count": 27298
+            },
+            "username": "garyplayer"
+        },
+        {
+            "id": "1222639789",
+            "name": "Vince McMahon",
+            "public_metrics": {
+                "followers_count": 2456943,
+                "following_count": 50,
+                "listed_count": 3582,
+                "tweet_count": 607
+            },
+            "username": "VinceMcMahon"
+        },
+        {
+            "id": "620571475",
+            "name": "Dan Scavino\ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+            "public_metrics": {
+                "followers_count": 1232521,
+                "following_count": 775,
+                "listed_count": 4902,
+                "tweet_count": 11833
+            },
+            "username": "DanScavino"
+        },
+        {
+            "id": "633797941",
+            "name": "Trump National Doral Miami",
+            "public_metrics": {
+                "followers_count": 131549,
+                "following_count": 1678,
+                "listed_count": 478,
+                "tweet_count": 8585
+            },
+            "username": "TrumpDoral"
+        },
+        {
+            "id": "726414091",
+            "name": "Trump Charlotte",
+            "public_metrics": {
+                "followers_count": 111187,
+                "following_count": 122,
+                "listed_count": 314,
+                "tweet_count": 1841
+            },
+            "username": "TrumpCharlotte"
+        },
+        {
+            "id": "82504071",
+            "name": "Trump Las Vegas",
+            "public_metrics": {
+                "followers_count": 169532,
+                "following_count": 1224,
+                "listed_count": 1290,
+                "tweet_count": 4644
+            },
+            "username": "TrumpLasVegas"
+        },
+        {
+            "id": "48223726",
+            "name": "Trump Chicago",
+            "public_metrics": {
+                "followers_count": 133388,
+                "following_count": 3440,
+                "listed_count": 877,
+                "tweet_count": 7727
+            },
+            "username": "TrumpChicago"
+        },
+        {
+            "id": "1013672084",
+            "name": "Trump Washington DC",
+            "public_metrics": {
+                "followers_count": 154053,
+                "following_count": 55,
+                "listed_count": 437,
+                "tweet_count": 1009
+            },
+            "username": "TrumpGolfDC"
+        },
+        {
+            "id": "29562422",
+            "name": "Trump Los Angeles",
+            "public_metrics": {
+                "followers_count": 129933,
+                "following_count": 142,
+                "listed_count": 421,
+                "tweet_count": 1826
+            },
+            "username": "TrumpGolfLA"
+        },
+        {
+            "id": "39349894",
+            "name": "Eric Trump",
+            "public_metrics": {
+                "followers_count": 4551462,
+                "following_count": 1050,
+                "listed_count": 9459,
+                "tweet_count": 7239
+            },
+            "username": "EricTrump"
+        },
+        {
+            "id": "23970102",
+            "name": "Bill O'Reilly",
+            "public_metrics": {
+                "followers_count": 3406182,
+                "following_count": 80,
+                "listed_count": 11626,
+                "tweet_count": 16013
+            },
+            "username": "BillOReilly"
+        },
+        {
+            "id": "16031927",
+            "name": "Greta Van Susteren",
+            "public_metrics": {
+                "followers_count": 1216065,
+                "following_count": 2722,
+                "listed_count": 8236,
+                "tweet_count": 185005
+            },
+            "username": "greta"
+        },
+        {
+            "id": "39344374",
+            "name": "Donald Trump Jr.",
+            "public_metrics": {
+                "followers_count": 6535826,
+                "following_count": 1499,
+                "listed_count": 16698,
+                "tweet_count": 40718
+            },
+            "username": "DonaldJTrumpJr"
+        },
+        {
+            "id": "52544275",
+            "name": "Ivanka Trump",
+            "public_metrics": {
+                "followers_count": 10317362,
+                "following_count": 1534,
+                "listed_count": 24281,
+                "tweet_count": 18074
+            },
+            "username": "IvankaTrump"
+        }
+    ],
+    "meta": {
+        "result_count": 51
+    }
+}]
